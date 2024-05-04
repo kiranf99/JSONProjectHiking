@@ -1,0 +1,25 @@
+{
+  "FitnessApp":
+  [
+    {"ExName":"Squates","Time":"30 Mins","EXID":1,"EXImage":"","Calories":" 🏋🏿150 Calories","rating":"3.5","MaximumTime":"5.5 hrs", "ExDescription": "Squats are a fundamental lower-body exercise that targets multiple muscle groups, providing several benefits.", "GymAddress" : "State Rte 600, Etlan, VA 22719", "Steps" : "1000"},
+    
+    
+    {"ExName":"Cardio","Time":"30 Mins","EXID":2,"EXImage":"","Calories":"🏋🏿200","rating":"Trending🔥 ","MaximumTime":"2 hrs", "ExDescription": "Cardiovascular exercise, often referred to as cardio involves activities that elevate your heart rate and increase your breathing rate. Some common forms of cardio include running, cycling, swimming, and brisk walking. ", "GymAddress" : "State Rte 600, Etlan, VA 22719", "Steps" : "5000"},
+    
+    
+    {"ExName":"StrengthTraining","Time":"60Mins","EXID":3,"EXImage":"","Calories":"🏋🏿250 Calories","rating":"4.5","MaximumTime":"1.5 hrs", "ExDescription":"Strength training, also known as resistance training or weightlifting, involves performing exercises designed to improve muscle strength, endurance, and size by using resistance. ", "GymAddress" : "State Rte 600, Etlan, VA 22719", "Steps" : "2500"},
+    
+    
+    {"ExName":"Crunch","Time":"30 Mins","EXID":4,"EXImage":"","Calories":"🏋🏿200 Calories","rating":"3.8","MaximumTime":"1 hrs", "ExDescription": "Crunches are a popular abdominal exercise known for their effectiveness in strengthening the core muscles.", "GymAddress" : "State Rte 600, Etlan, VA 22719", "Steps" : "500"},
+    
+    
+    {"ExName":"Mountain Climber","Time":"120 Mins","EXID":5,"EXImage":"","Calories":"🏋🏿 ","rating":"Trending 🔥","MaximumTime":"5.5 hrs", "ExDescription": "Mountain climbers are a dynamic bodyweight exercise that engages multiple muscle groups and provides several benefits. ", "GymAddress" : "State Rte 600, Etlan, VA 22719", "Steps" : "10000"},
+    
+    
+    {"ExName":"Pushup","Time":"30 Mins","EXID":6,"EXImage":"","Calories":"🏋🏿 100 Calories","rating":"Trending 🔥 ","MaximumTime":"1 hrs", "ExDescription": "Pushups are a fast and effective exercise for building strength. They can be done from virtually anywhere and don’t require any equipment.", "GymAddress" : "State Rte 600, Etlan, VA 22719", "Steps" : "550"},
+    
+    
+    {"ExName":"Burpees","Time":"45 Mins","EXID":7,"EXImage":"","Calories":"🏋🏿 150 Calories","rating":"2.8","MaximumTime":"2 hrs", "ExDescription": "By performing burpee push-ups as part of your high-intensity interval training (HIIT), you can increase your heart rate and improve your cardio endurance. 2. Burpee push-ups are a full-body workout. With proper form, the burpee push-up can activate your glutes, triceps, hamstrings, quads, and pectorals.", "GymAddress" : "State Rte 600, Etlan, VA 22719", "Steps" : "2500"}
+  ],
+  "Status":"OK"
+}
